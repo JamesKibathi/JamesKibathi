@@ -15,7 +15,7 @@ About me
 <li>🌱 I’m exploring DevOps and Cloud Computing.  </li>
 <li>💞️ I’m looking to collaborate on ... Fullstack and backend development. </li>
 
-<li>💬 Ask me about ... Software development, Site Reliability Engineering, Emerging tech, and  Digital Marketing  </li>
+<li>💬 Ask me about ... Backend and Full stack developemnt  </li>
   
 <li>📫 How to reach me: njenga.consulting@gmail.com  </li>
   
