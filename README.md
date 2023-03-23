@@ -13,7 +13,7 @@ About me
 <ul>
 <li>🔭 I'm currently... polishing my coding skills. </li>
 <li>🌱 I’m exploring DevOps and Cloud Computing.  </li>
-<li>💞️ I’m looking to collaborate on ... Fullstack and backend development. </li>
+<li>💞️ I’m looking to collaborate on ... Full stack and backend development. </li>
 
 <li>💬 Ask me about ... Backend and Full stack developemnt  </li>
   
