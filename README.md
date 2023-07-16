@@ -11,11 +11,11 @@ About me
 <p>I also hold a BSc in Computer Science </p>
 
 <ul>
-<li>🔭 I'm currently... polishing my coding skills. </li>
+<li>🔭 I'm currently... collaborating on full-stack projects. </li>
 <li>🌱 I’m exploring DevOps and Cloud Computing.  </li>
-<li>💞️ I’m looking to collaborate on ... Full stack and backend development. </li>
+<li>💞️ I’m looking to collaborate on ... Full stack development. </li>
 
-<li>💬 Ask me about ... Backend and Full stack developemnt  </li>
+<li>💬 Ask me about ... React, Django, and Rails </li>
   
 <li>📫 How to reach me: njenga.consulting@gmail.com  </li>
   
