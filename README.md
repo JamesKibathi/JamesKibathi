@@ -7,12 +7,11 @@ About me
 # Hi, I'm James Njenga 👋 👩🏾‍💻
 
 <p>I am a Software Engineer, from Nairobi Kenya.</p> 
-<p>I recently graduated from the Moringa School and the Flatiron School's Software Engineering bootcamp. </p>
 <p>I also hold a BSc in Computer Science </p>
 
 <ul>
 <li>🔭 I'm currently... collaborating on full-stack projects. </li>
-<li>🌱 I’m exploring DevOps and Cloud Computing.  </li>
+<li>🌱 I’m exploring Docker and Kubernetes.  </li>
 <li>💞️ I’m looking to collaborate on ... Full stack development. </li>
 
 <li>💬 Ask me about ... React, Django, and Rails </li>
