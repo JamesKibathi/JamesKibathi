@@ -11,14 +11,14 @@ About me
 
 <ul>
 <li>🔭 I'm currently... collaborating on back-end (APIs and Microservices) projects. </li>
-<li>🌱 I’m exploring Docker and Kubernetes.  </li>
+<li>🌱 I’m exploring Machine Learning and Agentic AI.  </li>
 <li>💞️ I’m looking to collaborate on ... Backend development. </li>
 
 <li>💬 Ask me about ... Django, Django Rest Framework and Go </li>
   
 <li>📫 How to reach me: njenga.consulting@gmail.com  </li>
   
-<li> ⚡ In my free time I solve problems on Codewars and read tech articles.</li>
+<li> ⚡ In my free time, I love to catch up on latest advancements in AI and explore emerging technologies.</li>
 </ul>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 and Tools
