@@ -7,7 +7,7 @@ About me
 # Hi, I'm James Njenga 👋 👩🏾‍💻
 
 <p>I am a Software Engineer, from Nairobi Kenya.</p> 
-<p>I also hold a BSc in Computer Science </p>
+<p> BSc Computer Science, Software Engineering major</p>
 
 <ul>
 <li>🔭 I'm currently... collaborating on back-end (APIs and Microservices) projects. </li>
